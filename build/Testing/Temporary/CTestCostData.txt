@@ -1,0 +1,9 @@
+database_project_csv_data_loader_test 1 0.00614171
+database_project_lab1_test 1 0.00546247
+database_project_column_sum_test 1 0.00578553
+database_project_custom_table_test 1 0.00390659
+database_project_predicated_all_columns_sum_test 1 0.00488024
+database_project_predicated_column_sum_test 1 0.00586148
+database_project_predicated_update_test 1 0.00705591
+database_project_put_get_test 1 0.00580539
+---
